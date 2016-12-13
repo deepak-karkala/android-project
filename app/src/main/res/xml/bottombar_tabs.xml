@@ -1,0 +1,10 @@
+<tabs>
+    <tab
+        id="@+id/tab_finder"
+        icon="@drawable/ic_stop_black_24dp"
+        title="Finder" />
+    <tab
+        id="@+id/tab_addstore"
+        icon="@drawable/ic_stop_black_24dp"
+        title="Add store" />
+</tabs>
